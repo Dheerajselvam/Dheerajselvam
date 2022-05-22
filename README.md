@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Dheeraj Panneer Selvam
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 I’m currently pursuing my Masters in Machine Learning and Data Science at USC
+- 💞️ I’m looking to collaborate on projects and companies that have AI and Data Science as their focus
+- 📫 You can contact me @ https://www.linkedin.com/in/dheeraj-panneer-selvam-489808161/
+
+<!---
+Dheerajselvam/Dheerajselvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
